@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I%27m+Aryan+Pandit;Software+Developer+%7C+AI+Blueprints+%7C+Backend+%26+APIs;MS+CS+%40+CSU+Fullerton" alt="Typing SVG" />
   
   <p>
-    Building open-source AI blueprints and backend systems (FastAPI, React, Docker, Postgres, Redis).
+    Software Developer building open-source AI blueprints and backend systems  
+(FastAPI, React, Docker, PostgreSQL, Redis)
+
+Currently working at an AI startup — most production contributions are made
+through a separate company GitHub organization.
   </p>
 
   <!-- Quick links -->
