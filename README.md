@@ -35,7 +35,7 @@ through a separate company GitHub organization.
 - I like building production-style projects: Dockerized services, clean APIs, real deployments
 
 ### Featured
-- **Google Sheets MCP Server**: https://github.com/Aryan1718/mcp-sever-google-sheets
+- **mini-redis**: https://github.com/Aryan1718/mini-redis
 
 ---
 
