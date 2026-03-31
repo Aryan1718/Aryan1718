@@ -36,7 +36,7 @@
 
 - MS in Computer Science — California State University, Fullerton  
 - Building end-to-end AI systems across backend, frontend, and model integration  
-- Strong focus on backend architecture, scalable APIs, and production-ready systems  
+- Strong focus on backend architecture and APIs. 
 - Experience working on LLM-powered applications using both cloud and open-source models  
 - Tech stack includes Python, React, Next.js, and JavaScript  
 - Currently exploring Rust to better understand memory-efficient and high-performance system design  
