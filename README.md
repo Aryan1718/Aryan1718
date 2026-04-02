@@ -45,15 +45,6 @@
 ---
 
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aryan1718&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
