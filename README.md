@@ -7,9 +7,6 @@
 
   <br/>
 
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=Aryan1718&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
-
 <p>
   Software Developer<br/>
 </p>
