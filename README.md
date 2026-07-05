@@ -7,9 +7,6 @@
 
   <br/>
 
-<p>
-  Software Developer<br/>
-</p>
 
   <!-- Quick links -->
   <a href="mailto:aryanjp1718@gmail.com">
